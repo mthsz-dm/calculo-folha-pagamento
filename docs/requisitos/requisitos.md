@@ -32,6 +32,7 @@ Características são as funcionalidades em alto nível do sistema que são nece
 - **Cálculo do Salário Líquido**: o sistema deve calcular o salário líquido do funcionário, ou seja, seu salário final após todos os benefícios e descontos serem considerados.  
 - **Relatório da Folha de Pagamento**: o sistema deve mostrar na tela para o usuário os cálculos da folha de pagamento.  
 
+---
 
 ## ✅ Requisitos Funcionais  
 
