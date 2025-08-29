@@ -1,6 +1,22 @@
-# 📊 Sistema de Folha de Pagamento  
+# 📄 Documento de Requisitos – Sistema de Folha de Pagamento
 
-Este projeto tem como objetivo o desenvolvimento de um sistema para cálculo da folha de pagamento de funcionários, implementando regras trabalhistas brasileiras como CLT, adicionais, descontos e benefícios.  
+## 1. Introdução
+
+A Folha de Pagamento é um documento mensal que apresenta um registro detalhado das remunerações, encargos e benefícios concedidos aos funcionários de uma empresa. Além de ser uma obrigação legal, ela é uma importante ferramenta de gestão, pois permite às empresas controlarem seus custos com pessoal e acompanhar a evolução das remunerações e encargos sociais.  
+
+Além disso, é por meio dela que os funcionários podem conferir se o valor pago está correto e se seus direitos trabalhistas estão sendo respeitados.  
+
+A administração e composição da Folha de Pagamento é um dos processos mensais mais trabalhosos de um Departamento Pessoal. É nessa rotina que o profissional de Gestão de Pessoas realiza o controle e os cálculos de todos os pagamentos dos salários dos colaboradores de uma empresa, incluindo:
+
+- **Adicionais**: horas extras, adicional noturno, comissões;  
+- **Benefícios**: vale transporte, vale alimentação, salário família;  
+- **Descontos**: imposto de renda, contribuição previdenciária, FGTS, faltas e atrasos.  
+
+Ela deve ser emitida mensalmente e arquivada pela empresa por um período de, no mínimo, cinco anos. Além disso, é importante que a empresa esteja em conformidade com as leis trabalhistas e previdenciárias, para evitar problemas legais e garantir o bem-estar dos funcionários.  
+
+Entre as informações que geralmente constam em uma folha de pagamento estão o nome e CPF do funcionário, cargo ocupado, salário base, horas trabalhadas, adicionais, descontos, benefícios, entre outros.  
+
+A partir dessas informações, é possível calcular o valor líquido a ser pago ao funcionário, ou seja, o valor que ele irá receber após todos os descontos e benefícios serem considerados.
 
 ---
 
